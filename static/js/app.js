@@ -50,11 +50,11 @@ function updateFilters() {
   function filterTable() {
   
     // 8. Set the filtered data to the tableData.
-   
+    let filteredData = tableData
   
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
-    let filteredData = tableData.filter((obj) => {
+    filteredData = tableData.filter((obj) => {
       for(filterId in filters) {
           if(obj[filterId] !== filters[filterId]) {
             return false;
