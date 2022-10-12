@@ -13,7 +13,7 @@ Dana was able to create a visually appealing and interactive webpage. She starte
 
 Since Dana was specifically interested in her home state OR, she entered OR in the city filter to ffilter the results just for Oregon state. Below were here results:
 
-<img   src="https://github.com/patelnehap/UFO/blob/main/Oregon.JPG"  alt="Oregon UFO Sightings"  title="Oregon UFO Sightings" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img   src="https://github.com/patelnehap/UFO/blob/main/OR.JPG"  alt="Oregon UFO Sightings"  title="Oregon UFO Sightings" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Dana was also specifically interested in sphere shaped UFO sightings on the new year day, so she entered the 1/1/2010 date in the date filter and sphere in the Shape filter to get the specific results:
 
