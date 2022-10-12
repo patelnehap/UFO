@@ -13,11 +13,11 @@ Dana was able to create a visually appealing and interactive webpage. She starte
 
 Since Dana was specifically interested in her home state OR, she entered OR in the city filter to ffilter the results just for Oregon state. Below were here results:
 
-<img   src="[Oregon.jpg](https://github.com/patelnehap/UFO/blob/main/Oregon.JPG)"  alt="Oregon UFO Sightings"  title="Oregon UFO Sightings" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img   src="https://github.com/patelnehap/UFO/blob/main/Oregon.JPG"  alt="Oregon UFO Sightings"  title="Oregon UFO Sightings" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Dana was also specifically interested in sphere shaped UFO sightings on the new year day, so she entered the 1/1/2010 date in the date filter and sphere in the Shape filter to get the specific results:
 
-<img src="[Sphere.jpg](https://github.com/patelnehap/UFO/blob/main/Sphere.JPG)"  alt="New Year Sphered UFO Sightings"  title="New Year Sphered UFO Sightings" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="https://github.com/patelnehap/UFO/blob/main/Sphere.JPG"  alt="New Year Sphered UFO Sightings"  title="New Year Sphered UFO Sightings" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### Summary
 Dana was  very impressed and satisfied with her web page. She was able to get the results she was looking for and also the web page was visually appealing. Also the filters where users can refine the search as per their needs were very intriguing. But she felt that the filters were defaulting to the placeholder values from our HTML code. The default values were very visible and confusing to some users. She needs to dig a little more deeper into the code to get rid of the placeholder values. Some users requested a range input for the date filter, Dana wanted to further look into that development as well. Adding a range in the date filter would allow the users to filter for a week or weekends as needed.
