@@ -11,7 +11,7 @@ Dana was able to create a visually appealing and interactive webpage. She starte
 
  She displayed the various UFO sightings neatly displayed in a table with data stacked appropriately in related columns. She added various filters to help the users refine their results to specific UFO sightings they may be interested in. The search can be narrowed down either by specific Date, City, State, Country and Shape.
 
-Since Dana was specifically interested in her home state OR, she entered OR in the city filter to ffilter the results just for Oregon state. Below were here results:
+Since Dana was specifically interested in her home state OR, she entered OR in the city filter to filter the results just for Oregon state. Below were here results:
 
 <img   src="https://github.com/patelnehap/UFO/blob/main/OR.JPG"  alt="Oregon UFO Sightings"  title="Oregon UFO Sightings" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
@@ -20,4 +20,4 @@ Dana was also specifically interested in sphere shaped UFO sightings on the new 
 <img src="https://github.com/patelnehap/UFO/blob/main/Sphere.JPG"  alt="New Year Sphered UFO Sightings"  title="New Year Sphered UFO Sightings" style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ### Summary
-Dana was  very impressed and satisfied with her web page. She was able to get the results she was looking for and also the web page was visually appealing. Also the filters where users can refine the search as per their needs were very intriguing. But she felt that the filters were defaulting to the placeholder values from our HTML code. The default values were very visible and confusing to some users. She needs to dig a little more deeper into the code to get rid of the placeholder values. Some users requested a range input for the date filter, Dana wanted to further look into that development as well. Adding a range in the date filter would allow the users to filter for a week or weekends as needed.
+Dana was  very impressed and satisfied with her web page. She was able to get the results she was looking for and also the web page was visually appealing. Also the filters where users can refine the search as per their needs were very intriguing. But the filters were defaulting to the placeholder values from our HTML code. The default values were very visible and confusing to some users. She needs to dig a little more deeper into the code to get rid of the placeholder values. Some users requested a range input for the date filter, Dana wanted to further look into that development as well. Adding a range in the date filter would allow the users to filter for a week or weekends as needed.
